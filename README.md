@@ -29,6 +29,8 @@ This study focuses on the 2016 Meinong Earthquake, which had a magnitude of 6.4 
 
 [Provide instructions on how to get started with your project, including any necessary software or data. Include installation instructions and any prerequisites or dependencies that are required.]
 
+
+
 ## File Structure
 
 [Describe the file structure of your project, including how the files are organized and what each file contains. Be sure to explain the purpose of each file and how they are related to one another.]
