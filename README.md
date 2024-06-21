@@ -2,7 +2,7 @@
 This GitHub repository offers a template specifically designed to teach students how to write effective README.md files and create a well-organized file structure. The template provides clear instructions and exampls, helping students to learn the basics of GitHub and how to create professional-looking repositories.
 12345678
 
-# Project Title
+# Earthquake-Impact-on-Housing-Prices
 
 Earthquake-Impact-on-Housing-Prices
 
