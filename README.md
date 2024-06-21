@@ -1,7 +1,3 @@
-# ici_template [This section can be removed in the submission version]111
-This GitHub repository offers a template specifically designed to teach students how to write effective README.md files and create a well-organized file structure. The template provides clear instructions and exampls, helping students to learn the basics of GitHub and how to create professional-looking repositories.
-12345678
-
 # Earthquake-Impact-on-Housing-Prices
 
 Earthquake-Impact-on-Housing-Prices
@@ -93,7 +89,7 @@ Independent variables include:
 ### Visualization
 We provide visualizations such as simple plots showing changes in housing prices and earthquake intensity, helping to illustrate the findings clearly.
 
-<img src="https://github.com/Anne-ccl/Big-Data-Final-Earthquake-Impact-on-Housing-Prices/assets/172906972/ab9b7e37-107d-4cda-9a4c-9939126db27e" alt="image" width="200"/>
+  <img src="https://github.com/Anne-ccl/Big-Data-Final-Earthquake-Impact-on-Housing-Prices/assets/172906972/ab9b7e37-107d-4cda-9a4c-9939126db27e" alt="image" width="200"/>
 
 **Figure 1. Earthquake Intensity of Meinong Earthquake (2016)**
 
@@ -113,23 +109,74 @@ ___________________________________________________________________
 
 
 
+### Process
+
 ## Results
 
 [Provide a summary of your findings and conclusions, including any recommendations or implications for future research. Be sure to explain how your results address your research question or problem statement.]
 
-<img src="https://github.com/Anne-ccl/Big-Data-Final-Earthquake-Impact-on-Housing-Prices/assets/172906972/ab9b7e37-107d-4cda-9a4c-9939126db27e" alt="image" width="200"/>
+The preliminary results suggest that housing prices are more closely related to the social increase rate (net migration) than to earthquake intensity. Specifically, the analysis indicates that areas with higher rates of population influx tend to experience more significant changes in housing prices, irrespective of earthquake intensity. These findings highlight the importance of social and demographic factors over purely geological ones in influencing the housing market.
 
 
+### Future Research
+Given the initial findings, future research should delve deeper into the impact of social changes, such as migration patterns and demographic shifts, on housing prices. Further studies could investigate:
 
+1. Long-Term Effects: Examining the long-term impacts of population dynamics on housing prices beyond the immediate aftermath of an earthquake.
+2. Detailed Demographic Analysis: Analyzing the specific characteristics of migrating populations, such as age, income level, and occupation, to understand their influence on housing market trends.
+3. Comparative Studies: Conducting comparative studies between regions with similar seismic activity but different social dynamics to identify the relative impact of each factor.
+
+By expanding the scope of research to include these aspects, we can gain a more comprehensive understanding of the factors influencing real estate markets in areas prone to natural disasters. This knowledge will support better decision-making for urban planning, investment strategies, and disaster preparedness initiatives.
 
 ## Contributors
 
 [List the contributors to your project and describe their roles and responsibilities.]
 
+Data Collection： Yvonne, Nina, Anne, Nora
+
+Programmer of the Project (Including Data Cleaning and Analysis): Yvonne, Nina
+
+Writer: Anne, Nora
+
+
 ## Acknowledgments
 
 [Thank any individuals or organizations who provided support or assistance during your project, including funding sources or data providers.]
 
+We extend our gratitude to Professor Pien Chung-Pei for his invaluable guidance and support throughout the semester. His insights and feedback were instrumental in the development of this project.
+
 ## References
 
 [List any references or resources that you used during your project, including data sources, analytical methods, and tools.]
+
+### Data Sources
+
+| Resource | File Name |
+|-------------|-------------------------------|
+| 氣象署地震測報中心 | 20160206美濃各地震度原始資料(ASCI) |
+| 內政部不動產成交案件實際資訊資料供應系統| 縣市鄉鎮不動產成交案件資訊(含不動產買賣+預售屋買賣+不動產租賃) |
+| | 醫療院所 |
+| 社會經濟資料服務平台 | 105年12月行政區人口指標_鄉鎮市區 |
+| | 105年12月行政區三段年齡組性別人口統計_鄉鎮市區 |
+| |105年行政區15歲以上人口教育程度統計_鄉鎮市區 | 
+| |105年綜合所得稅各類所得金額統計_鄉鎮市區 |
+| |104-106年行政區人口消長統計_鄉鎮市區 |
+| |104-106年行政區人口消長統計指標_鄉鎮市區 |
+| 內政部國土測繪中心 | 台灣鄉鎮市區界線(TWD97經緯度) |
+
+### Tools
+- R Studio
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
