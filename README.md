@@ -29,7 +29,36 @@ This study focuses on the 2016 Meinong Earthquake, which had a magnitude of 6.4 
 
 [Provide instructions on how to get started with your project, including any necessary software or data. Include installation instructions and any prerequisites or dependencies that are required.]
 
+### Prerequisites
+To get started with this project, you will need the following:
 
+1. RStudio
+- R (version 3.6.3 or later)
+- Required R packages: dplyr, tidyr, ggplot2, lmtest
+
+### Installation
+1. Install R and RStudio:
+- Download and install R from CRAN.
+- Download and install RStudio from RStudio.
+2. Install the necessary R packages:
+
+Open RStudio and run the following commands in the console:
+```
+install.packages("dplyr")
+install.packages("tidyr")
+install.packages("ggplot2")
+install.packages("lmtest")
+```
+### Raw Data
+The raw data used in this project includes:
+
+- 20160206 Meinong Earthquake (Seismic Intensity Classification Table)
+- Housing prices: Taiwan All Region Real Estate Transaction Dataset 2014-2018
+- Taiwan All Region Geographic Mobility 2016
+- Number of Medical Clinics in Townships and Towns in 2016
+- Education Level of Taiwanese Population 2016
+
+These datasets are crucial for performing the regression analysis and understanding the various factors affecting housing prices.
 
 ## File Structure
 
