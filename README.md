@@ -15,12 +15,15 @@ Taiwan is located on the Pacific Ring of Fire, making it prone to frequent and s
 
 This study focuses on the 2016 Meinong Earthquake, which had a magnitude of 6.4 and struck Kaohsiung, Taiwan, on February 6, 2016. This earthquake caused extensive damage and highlighted the vulnerability of Taiwan's housing infrastructure. By analyzing real estate data from 2014 to 2018, focuses on areas that experienced earthquake magnitudes of four or above, including cities such as Miaoli, Taichung, Changhua, Nantou, Yunlin, Chiayi City, Chiayi County, Tainan, Kaohsiung, Pingtung, Hualien, and Taitung., this project aims to determine the earthquake's impact on housing prices and trading activities in the affected regions, and provides valuable insights for future urban planning and investment strategies, ensuring better preparedness for similar events in the future.
 ### Objectives
-Assess the Impact of Earthquakes on Housing Prices: Determine whether the 2016 Meinong Earthquake significantly affected housing prices and geographic mobility from 2016 to 2018.
-Analyze Contributing Factors: Explore the relationships between earthquake intensity, housing prices, and geographic mobility, considering other influencing factors such as population size, medical resources, and education levels.
-Provide Strategic Insights: Offer recommendations for future urban planning and investment decisions based on the findings.
-Hypotheses
-The 2016 Meinong Earthquake had a significant impact on housing prices and geographic mobility in areas with a magnitude of four or above from 2016 to 2018.
-There are discernible relationships between earthquake occurrences, housing prices, and geographic mobility, influenced by factors such as population dynamics, medical resources, and education levels.
+1. Assess the Impact of Earthquakes on Housing Prices:
+   Determine whether the 2016 Meinong Earthquake significantly affected housing prices and geographic mobility from 2016 to 2018.
+2. Analyze Contributing Factors:
+   Explore the relationships between earthquake intensity, housing prices, and geographic mobility, considering other influencing factors such as population size, medical resources, and education levels.
+3. Provide Strategic Insights:
+   Offer recommendations for future urban planning and investment decisions based on the findings.
+### Hypotheses
+1. Did the 2016 Meinong Earthquake significantly impact housing prices and geographic mobility in areas with a magnitude of four or above from 2016 to 2018?
+2. What are the relationships between earthquake occurrences, housing prices, and geographic mobility, and how are these relationships influenced by factors such as population dynamics, medical resources, and education levels?
 
 ## Getting Started
 
