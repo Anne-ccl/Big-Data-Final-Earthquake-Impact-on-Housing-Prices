@@ -60,6 +60,7 @@ The raw data used in this project includes:
 
 These datasets are crucial for performing the regression analysis and understanding the various factors affecting housing prices.
 
+
 ## File Structure
 
 [Describe the file structure of your project, including how the files are organized and what each file contains. Be sure to explain the purpose of each file and how they are related to one another.]
@@ -71,11 +72,55 @@ The project is organized into the following directories and files:
 
 [Describe your analysis methods and include any visualizations or graphics that you used to present your findings. Explain the insights that you gained from your analysis and how they relate to your research question or problem statement.]
 
+The analysis employs regression models to examine the relationship between earthquake intensity and housing prices. Specifically, we use two primary models:
+
+1. Housing Transaction Volume Model: Uses housing transaction volume as the dependent variable.
+2. Housing Price Difference Model: Uses housing price differences as the dependent variable.
+
+Independent variables include:
+
+- Earthquake intensity
+- Population size (2016)
+- Social increase rate (migration rates)
+- Aging index
+- Medical resources
+- Education levels
+
+### Methodology
+1. Data Cleaning: Preprocess the raw data to ensure accuracy and consistency.
+2. Regression Analysis: Build regression models to analyze the impact of earthquakes on housing prices.
+3. Visualization: Create plots to visually represent changes in housing prices and earthquake intensity.
+### Visualization
+We provide visualizations such as simple plots showing changes in housing prices and earthquake intensity, helping to illustrate the findings clearly.
+
+<img src="https://github.com/Anne-ccl/Big-Data-Final-Earthquake-Impact-on-Housing-Prices/assets/172906972/ab9b7e37-107d-4cda-9a4c-9939126db27e" alt="image" width="200"/>
+
+**Figure 1. Earthquake Intensity of Meinong Earthquake (2016)**
+
+___________________________________________________________________
+
+
+<img src="https://github.com/Anne-ccl/Big-Data-Final-Earthquake-Impact-on-Housing-Prices/assets/172906972/3e0f58e1-df36-4448-8931-8e592215d3e1" alt="image" width="400"/>
+
+**Figure 2. Variations in Property Prices & Earthquake Intensity (2015-2017)**
+
+___________________________________________________________________
+
+
+<img src="https://github.com/Anne-ccl/Big-Data-Final-Earthquake-Impact-on-Housing-Prices/assets/172906972/f8a34d52-6fb8-4861-b437-e1cdac2eca72" alt="image" width="400"/>
+
+**Figure 3. Variations in Property Transaction Volumes & Earthquake Intensity (2015-2017)**
+
 
 
 ## Results
 
 [Provide a summary of your findings and conclusions, including any recommendations or implications for future research. Be sure to explain how your results address your research question or problem statement.]
+
+<img src="https://github.com/Anne-ccl/Big-Data-Final-Earthquake-Impact-on-Housing-Prices/assets/172906972/ab9b7e37-107d-4cda-9a4c-9939126db27e" alt="image" width="200"/>
+
+
+
 
 ## Contributors
 
