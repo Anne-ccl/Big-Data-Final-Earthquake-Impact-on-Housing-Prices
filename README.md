@@ -64,9 +64,14 @@ These datasets are crucial for performing the regression analysis and understand
 
 [Describe the file structure of your project, including how the files are organized and what each file contains. Be sure to explain the purpose of each file and how they are related to one another.]
 
+The project is organized into the following directories and files: 
+
+
 ## Analysis
 
 [Describe your analysis methods and include any visualizations or graphics that you used to present your findings. Explain the insights that you gained from your analysis and how they relate to your research question or problem statement.]
+
+
 
 ## Results
 
