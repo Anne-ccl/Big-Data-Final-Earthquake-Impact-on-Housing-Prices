@@ -153,28 +153,19 @@ In the housing price difference analysis, the main effect of earthquake magnitud
 1. Data Cleaning: Preprocess the raw data to ensure accuracy and consistency.
 2. Regression Analysis: Build regression models to analyze the impact of earthquakes on housing prices.
 3. Visualization: Create plots to visually represent changes in housing prices and earthquake intensity.
+
 ### Visualization
 We provide visualizations such as simple plots showing changes in housing prices and earthquake intensity, helping to illustrate the findings clearly.
 
-  <img src="https://github.com/Anne-ccl/Big-Data-Final-Earthquake-Impact-on-Housing-Prices/assets/172906972/ab9b7e37-107d-4cda-9a4c-9939126db27e" alt="image" width="200"/>
+<img src="https://github.com/Anne-ccl/Big-Data-Final-Earthquake-Impact-on-Housing-Prices/assets/122294439/e48bb914-d418-47fc-a2ff-f25337898d79" alt="image" width="400"/>
 
 **Figure 1. Earthquake Intensity of Meinong Earthquake (2016)**
-![0622](https://github.com/Anne-ccl/Big-Data-Final-Earthquake-Impact-on-Housing-Prices/assets/122294439/e48bb914-d418-47fc-a2ff-f25337898d79)
-
-___________________________________________________________________
 
 
-<img src="https://github.com/Anne-ccl/Big-Data-Final-Earthquake-Impact-on-Housing-Prices/assets/172906972/3e0f58e1-df36-4448-8931-8e592215d3e1" alt="image" width="400"/>
 
-**Figure 2. Variations in Property Prices & Earthquake Intensity (2015-2017)**
-
-___________________________________________________________________
-
-
-<img src="https://github.com/Anne-ccl/Big-Data-Final-Earthquake-Impact-on-Housing-Prices/assets/172906972/f8a34d52-6fb8-4861-b437-e1cdac2eca72" alt="image" width="400"/>
-
-**Figure 3. Variations in Property Transaction Volumes & Earthquake Intensity (2015-2017)**
-
+Find the details in the Visualization result folder in the online link:
+1. Variations in Property Prices & Earthquake Intensity (2015-2017) 
+2. Variations in Property Transaction Volumes & Earthquake Intensity (2015-2017) 
 
 
 ## Results
