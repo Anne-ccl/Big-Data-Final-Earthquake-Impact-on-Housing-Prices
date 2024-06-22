@@ -99,7 +99,7 @@ Independent variables include:
 
 3.Regression Models:
 1. Housing Price Difference Regression Analysis (With Interaction Terms)
-<img src= "https://github.com/Anne-ccl/Big-Data-Final-Earthquake-Impact-on-Housing-Prices/assets/172912236/44d5d19d-94c4-4022-ac24-adc747b36c4f)" alt="image" width="400"/>
+<img src= "https://github.com/Anne-ccl/Big-Data-Final-Earthquake-Impact-on-Housing-Prices/assets/172912236/400efab4-8ef0-4d21-a09a-638a669709cf)" alt="image" width="400"/>
 
 Model Summary:
 Formula: Housing Price Difference 15_17 ~ Earthquake Magnitude * Social Growth Rate 2016 + Population Density 2016 + EDU_RATE + Aging Index 2016 + Labor Force Participation Rate 2016 + Total Population 2016 + Low-Income Household Ratio 2016 + Income and Salary Earnings 2016 + Medi_Service
@@ -110,7 +110,9 @@ F-statistic: 4.308, p-value < 0.001, highly significant
 Key Coefficients and Interpretation:
 Social Growth Rate 2016: Coefficient = -1.394e+04, p-value < 0.001. Significant negative correlation, indicating that higher social growth rates are associated with smaller changes in housing prices.
 Total Population 2016: Coefficient = 1.594e-03, p-value < 0.001. Significant positive correlation, indicating that higher total population is associated with greater changes in housing prices.
-Income and Salary Earnings 2016: Coefficient = 7.941e-04, p-value < 0.001. Significant positive correlation, indicating that higher income and salary earnings are associated with greater changes in housing prices.
+Income and Salary Earnings 2016: Coefficient = 7.941e-04, p-value < 0.001. 
+
+Significant positive correlation, indicating that higher income and salary earnings are associated with greater changes in housing prices.
 
 
 
