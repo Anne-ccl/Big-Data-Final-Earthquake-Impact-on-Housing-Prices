@@ -181,6 +181,10 @@ Various Income Amounts: Salary Income has a significant stabilizing effect on tr
 
 The preliminary results suggest that housing prices are more closely related to the social increase rate (net migration) than to earthquake intensity. Specifically, the analysis indicates that areas with higher rates of population influx tend to experience more significant changes in housing prices, irrespective of earthquake intensity. These findings highlight the importance of social and demographic factors over purely geological ones in influencing the housing market.
 
+## Project Limitations
+
+This project mainly analyzes the data on house price differences and transaction case differences. If we want to optimize data processing, we believe that we should collect the actual housing price registration prices in various places to make it more complete. In addition, due to the limited time for collecting data and the difficulty of collecting commercial data, this became the limitation of this project.
+
 ### Future Research
 Given the initial findings, future research should delve deeper into the impact of social changes, such as migration patterns and demographic shifts, on housing prices. Further studies could investigate:
 
@@ -200,16 +204,13 @@ Programmer of the Project (Including Data Cleaning and Analysis): Yvonne, Nina
 
 Writer: Anne, Nora
 
-
 ## Acknowledgments
 
 [Thank any individuals or organizations who provided support or assistance during your project, including funding sources or data providers.]
 
-We extend our heartfelt gratitude to Professor Pien Chung-Pei for his unwavering guidance and invaluable support throughout the semester. Professor Pien's deep expertise and commitment to our learning journey have significantly enriched our understanding of the complexities of big data analysis. His insightful feedback and constructive criticism were pivotal in shaping the direction and refining the methodologies of our project.
+We are deeply thankful to Professor Pien Chung-Pei for his invaluable guidance and support throughout the semester, which greatly influenced the development of our project. We also extend our appreciation to the organizations and individuals whose contributions and assistance were essential to our success, including our funding sources and data providers. His insightful feedback and constructive criticism were pivotal in shaping the direction and refining the methodologies of our project.
 
-Furthermore, we express our sincere appreciation to the organizations and individuals whose support and contributions were integral to the success of our project. Their funding enabled us to access essential resources and tools, facilitating our research and analysis. Special thanks are also due to our data providers, whose reliable data sets and cooperation were essential in conducting thorough and meaningful analyses.
-
-In conclusion, we are profoundly grateful to Professor Pien and all our supporters for their invaluable contributions, which have not only enhanced our academic experience but also deepened our passion for exploring the limitless possibilities of big data analysis.
+Furthermore, we express our sincere appreciation to the government open data platforms. Their funding enabled us to access essential resources and tools, facilitating our research and analysis. Special thanks are also due to our data providers on these platforms, whose reliable datasets and cooperation were essential in conducting thorough and meaningful analyses.
 
 ## References
 
