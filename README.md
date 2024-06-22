@@ -167,13 +167,6 @@ We provide visualizations such as simple plots showing changes in housing prices
 **Figure 1. Earthquake Intensity of Meinong Earthquake (2016)**
 </div>
 
-
-
-
-
-
-
-
 **Find the details in the Visualization results folder in the online link**
 1. Variations in Property Prices & Earthquake Intensity (2015-2017) 
 2. Variations in Property Transaction Volumes & Earthquake Intensity (2015-2017) 
