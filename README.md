@@ -213,9 +213,9 @@ Furthermore, we express our sincere appreciation to the government open data pla
 
 | Resource | File Name |
 |-------------|-------------------------------|
-| 氣象署地震測報中心 | 20160206美濃各地震度原始資料(ASCI) |
-| 內政部不動產成交案件實際資訊資料供應系統| 縣市鄉鎮不動產成交案件資訊(含不動產買賣+預售屋買賣+不動產租賃) |
-| 衛生福利部 | Medical Resources File |
+| 氣象署地震測報中心 | 2016 Meinong Earthquake Intensity Record |
+| 內政部不動產成交案件實際資訊資料供應系統| House Price 2014_2018(Including real estate sales, pre-sale house sales, and real estate leasing) |
+| 衛生福利部 | Medical Resources Files of Each County |
 | 社會經濟資料服務平台 | 105年12月行政區人口指標_鄉鎮市區 |
 | | 105年12月行政區三段年齡組性別人口統計_鄉鎮市區 |
 | |105年行政區15歲以上人口教育程度統計_鄉鎮市區 | 
