@@ -159,6 +159,7 @@ We provide visualizations such as simple plots showing changes in housing prices
   <img src="https://github.com/Anne-ccl/Big-Data-Final-Earthquake-Impact-on-Housing-Prices/assets/172906972/ab9b7e37-107d-4cda-9a4c-9939126db27e" alt="image" width="200"/>
 
 **Figure 1. Earthquake Intensity of Meinong Earthquake (2016)**
+![0622](https://github.com/Anne-ccl/Big-Data-Final-Earthquake-Impact-on-Housing-Prices/assets/122294439/e48bb914-d418-47fc-a2ff-f25337898d79)
 
 ___________________________________________________________________
 
