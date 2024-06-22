@@ -42,8 +42,15 @@ Open RStudio and run the following commands in the console:
 ```
 install.packages("dplyr")
 install.packages("tidyr")
-install.packages("ggplot2")
+install.packages("readr")
+install.packages("openxlsx")
 install.packages("lmtest")
+install.packages("ggplot2")
+install.packages("sf")
+install.packages("viridis")
+install.packages("rnaturalearth")
+install.packages("rnaturalearthdata")
+install.packages("spData")
 ```
 ### Raw Data
 The raw data used in this project includes:
