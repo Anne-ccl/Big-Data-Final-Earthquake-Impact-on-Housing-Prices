@@ -30,7 +30,7 @@ To get started with this project, you will need the following:
 
 1. RStudio
 - R (version 3.6.3 or later)
-- Required R packages: dplyr, tidyr, ggplot2, lmtest
+- Required R packages: dplyr, tidyr, ggplot2, lmtest, etc.
 
 ### Installation
 1. Install R and RStudio:
