@@ -3,26 +3,24 @@
 ## Project Description
 
 ### Introduction
-Taiwan is located on the Pacific Ring of Fire, making it prone to frequent and significant earthquakes. These seismic events can have substantial impacts on various aspects of society, particularly the housing market. Understanding how earthquakes affect housing prices is essential for policymakers, investors, and urban planners to develop strategies that enhance resilience and preparedness.
+Taiwan is located on the Pacific Ring of Fire, making it prone to frequent and significant earthquakes. These seismic events can substantially impact various aspects of society, particularly the housing market. Understanding how earthquakes affect housing prices is essential for policymakers, investors, and urban planners to develop strategies that enhance resilience and preparedness.
 
-This study focuses on the 2016 Meinong Earthquake, which had a magnitude of 6.4 and struck Kaohsiung, Taiwan, on February 6, 2016. This earthquake caused extensive damage and highlighted the vulnerability of Taiwan's housing infrastructure. By analyzing real estate data from 2015 to 2017, this study examines areas that experienced earthquake magnitudes of four or above. These areas include cities such as Miaoli, Taichung, Changhua, Nantou, Yunlin, Chiayi City, Chiayi County, Tainan, Kaohsiung, Pingtung, Hualien, and Taitung. The goal is to determine the earthquake's impact on housing prices and trading activities in the affected regions, providing valuable insights for future urban planning and investment strategies to ensure better preparedness for similar events in the future.
+This project focuses on the 2016 Meinong Earthquake, which had a magnitude of 6.4 and struck Kaohsiung, Taiwan, on February 6, 2016. This earthquake caused extensive damage and highlighted the vulnerability of Taiwan's housing infrastructure. By analyzing real estate data from 2015 to 2017, this study examines areas that experienced earthquake magnitudes of four or above. These areas include Miaoli, Taichung, Changhua, Nantou, Yunlin, Chiayi City, Chiayi County, Tainan, Kaohsiung, Pingtung, Hualien, and Taitung. The goal is to determine the earthquake's impact on housing prices and trading activities in the affected regions, providing valuable insights for future urban planning and investment strategies to ensure better preparedness for similar events in the future.
 
-Earthquakes can directly affect housing prices, but other factors such as medical resources and education levels can also influence them. Therefore, we decided to use regression analysis to process relevant data from 2014 to 2018. This method can reveal the relationship between earthquakes and housing prices while also exploring how these relationships are influenced by population dynamics, medical resources, and education levels. The results of such an analysis can provide scientific evidence for policymakers, helping them formulate more effective strategies to enhance urban resilience and promote sustainable socio-economic development. Additionally, regression analysis can identify key factors, aiding in the rational allocation of resources and precise policy-making.
+Earthquakes can directly affect housing prices, but other factors, such as medical resources and education levels, can also influence them. Therefore, we used regression analysis to process relevant data from 2014 to 2018. This method can reveal the relationship between earthquakes and housing prices while exploring how population dynamics, medical resources, and education levels influence these relationships. The results of such an analysis can provide scientific evidence for policymakers, helping them formulate more effective strategies to enhance urban resilience and promote sustainable socio-economic development. Additionally, regression analysis can identify key factors, aiding in the rational allocation of resources and precise policy-making.
 
-By utilizing data sources from the Ministry of the Interior's National Land Surveying and Mapping Center, the Social and Economic Data Service Platform, and the Central Weather Bureau's Seismological Center, we aim to conduct a comprehensive analysis. This analysis will not only assess the direct impacts of earthquakes on housing prices but also explore the broader socio-economic factors, such as population dynamics, medical resources, and education levels, that contribute to these effects. By integrating diverse datasets and applying advanced regression analysis techniques, we seek to provide a detailed understanding of the multifaceted influences on the housing market, ultimately offering valuable insights for policymakers, investors, and urban planners.
+By utilizing data sources from the Ministry of the Interior's National Land Surveying and Mapping Center, the Social and Economic Data Service Platform, and the Central Weather Bureau's Seismological Center, we aim to conduct a comprehensive analysis. This analysis will assess the direct impacts of earthquakes on housing prices and explore the broader socio-economic factors, such as population dynamics, medical resources, and education levels, that contribute to these effects. By integrating diverse datasets and applying advanced regression analysis techniques, we seek to provide a detailed understanding of the multifaceted influences on the housing market, ultimately offering valuable insights for policymakers, investors, and urban planners.
 
 ### Objectives
-1. Assess the Impact of Earthquakes on Housing Prices:
-   Determine whether the 2016 Meinong Earthquake significantly affected housing prices and geographic mobility from    2016 to 2017.
-2. Analyze Contributing Factors:
-   Explore the relationships between earthquake intensity, housing prices, and geographic mobility, considering
-   other influencing factors such as population size, medical resources, and education levels.
-4. Provide Strategic Insights:
-   Offer recommendations for future urban planning and investment decisions based on the findings.
+1. Assess the Impact of Earthquakes on Housing Prices: Determine whether the 2016 Meinong Earthquake significantly affected housing
+   prices and geographic mobility from 2016 to 2017.
+2. Analyze Contributing Factors: Explore the relationships between earthquake intensity, housing prices, and geographic mobility,
+   considering other influencing factors such as population size, medical resources, and education levels.
+3. Provide Strategic Insights: offering practical recommendations based on the insights gained from the study.
 
 ### Hypotheses
-1. Did the 2016 Meinong Earthquake significantly impact housing prices and geographic mobility in areas with a magnitude of four or above from 2016 to 2017?
-2. What are the relationships between earthquake occurrences, housing prices, and geographic mobility, and how are these relationships influenced by factors such as population dynamics, medical resources,salary income, and education levels?
+1. Did the 2016 Meinong Earthquake significantly impact housing prices and geographic mobility in areas with a magnitude of four or       above from 2016 to 2017?
+2. What intricate relationships exist between earthquake occurrences, housing prices, and geographic mobility, and how are these          relationships intricately influenced by population dynamics, medical resources, salary income, and education levels?
 
 ## Getting Started
 
