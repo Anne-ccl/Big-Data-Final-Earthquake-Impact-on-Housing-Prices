@@ -177,12 +177,11 @@ ___________________________________________________________________
 
 [Provide a summary of your findings and conclusions, including any recommendations or implications for future research. Be sure to explain how your results address your research question or problem statement.]
 
-The preliminary results suggest that housing prices are more closely related to the social increase rate (net migration) than to earthquake intensity. Specifically, the analysis indicates that areas with higher rates of population influx tend to experience more significant changes in housing prices, irrespective of earthquake intensity. These findings highlight the importance of social and demographic factors over purely geological ones in influencing the housing market.
-
 **Social Growth Rate** and **Total Population** are important factors influencing housing price and transaction differences.
 Earthquake Impact has a significant effect on housing price differences through its interaction with social growth rate, indicating that in areas with higher social growth rates, the impact of earthquakes on housing prices is more pronounced.
 Various Income Amounts: Salary Income has a significant stabilizing effect on transaction case differences, suggesting that real estate markets in higher-income areas experience less volatility.
 
+The preliminary results suggest that housing prices are more closely related to the social increase rate (net migration) than to earthquake intensity. Specifically, the analysis indicates that areas with higher rates of population influx tend to experience more significant changes in housing prices, irrespective of earthquake intensity. These findings highlight the importance of social and demographic factors over purely geological ones in influencing the housing market.
 
 ### Future Research
 Given the initial findings, future research should delve deeper into the impact of social changes, such as migration patterns and demographic shifts, on housing prices. Further studies could investigate:
