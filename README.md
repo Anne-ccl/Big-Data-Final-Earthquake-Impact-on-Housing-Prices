@@ -70,22 +70,6 @@ These datasets are crucial for performing the regression analysis and understand
 
 ## File Structure
 
-[Describe the file structure of your project, including how the files are organized and what each file contains. Be sure to explain the purpose of each file and how they are related to one another.]
-.
-├── Folder 1:Population growth and decline statistics between 2015-2017
-├── Folder 2:Population growth and decline statistical indicators 2015-2017
-├── Folder 3:Other Demographic Indicators/
-│   ├── a.Administrative District Population Indicators
-│   ├── b.Gender Demographics of three age groups in December 2016
-│   ├── c.Statistical indicators of low and middle income households in December 2016
-│   ├── d.Individual Income Tax Statistics in December 2016
-│   └── e.Statistics on the Education Level of the Population 2016
-├── Folder 4:Medical Resources 
-├── Folder 5:Visualization Results
-├── File: House Price 2014_2018
-├── File: 2016 Meinong Earthquake Intensity Record
-└── File: Earthquake-Impact-on-Housing-Prices (R Code File)
-
 ```
 📦 Data Project_Earthquake Impact on Housing Prices
 ├─ Folder 1:Population growth and decline statistics between 2015-2017
