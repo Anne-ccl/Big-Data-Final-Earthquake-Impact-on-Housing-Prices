@@ -14,13 +14,16 @@ This study focuses on the 2016 Meinong Earthquake, which had a magnitude of 6.4 
 Earthquakes can directly affect housing prices, but other factors such as medical resources and education levels can also influence them. Therefore, we decided to use regression analysis to process relevant data from 2014 to 2018. This method can reveal the relationship between earthquakes and housing prices while also exploring how these relationships are influenced by population dynamics, medical resources, and education levels. The results of such an analysis can provide scientific evidence for policymakers, helping them formulate more effective strategies to enhance urban resilience and promote sustainable socio-economic development. Additionally, regression analysis can identify key factors, aiding in the rational allocation of resources and precise policy-making.
 
 By utilizing data sources from the Ministry of the Interior's National Land Surveying and Mapping Center, the Social and Economic Data Service Platform, and the Central Weather Bureau's Seismological Center, we aim to conduct a comprehensive analysis. This analysis will not only assess the direct impacts of earthquakes on housing prices but also explore the broader socio-economic factors, such as population dynamics, medical resources, and education levels, that contribute to these effects. By integrating diverse datasets and applying advanced regression analysis techniques, we seek to provide a detailed understanding of the multifaceted influences on the housing market, ultimately offering valuable insights for policymakers, investors, and urban planners.
+
 ### Objectives
 1. Assess the Impact of Earthquakes on Housing Prices:
-   Determine whether the 2016 Meinong Earthquake significantly affected housing prices and geographic mobility from 2016 to 2017.
+   Determine whether the 2016 Meinong Earthquake significantly affected housing prices and geographic mobility from    2016 to 2017.
 2. Analyze Contributing Factors:
-   Explore the relationships between earthquake intensity, housing prices, and geographic mobility, considering other influencing factors such as population size, medical resources, and education levels.
-3. Provide Strategic Insights:
+   Explore the relationships between earthquake intensity, housing prices, and geographic mobility, considering
+   other influencing factors such as population size, medical resources, and education levels.
+4. Provide Strategic Insights:
    Offer recommendations for future urban planning and investment decisions based on the findings.
+
 ### Hypotheses
 1. Did the 2016 Meinong Earthquake significantly impact housing prices and geographic mobility in areas with a magnitude of four or above from 2015 to 2017?
 2. What are the relationships between earthquake occurrences, housing prices, and geographic mobility, and how are these relationships influenced by factors such as population dynamics, medical resources, and education levels?
@@ -98,10 +101,11 @@ Independent variables include:
 - Education levels
 
 3.Regression Models:
-1. Housing Price Difference Regression Analysis (With Interaction Terms)
+(1) Housing Price Difference Regression Analysis (With Interaction Terms)
 <img src= "https://github.com/Anne-ccl/Big-Data-Final-Earthquake-Impact-on-Housing-Prices/assets/172912236/400efab4-8ef0-4d21-a09a-638a669709cf)" alt="image" width="400"/>
 
 Model Summary:
+
 Formula: Housing Price Difference 15_17 ~ Earthquake Magnitude * Social Growth Rate 2016 + Population Density 2016 + EDU_RATE + Aging Index 2016 + Labor Force Participation Rate 2016 + Total Population 2016 + Low-Income Household Ratio 2016 + Income and Salary Earnings 2016 + Medi_Service
 
 Adjusted R-squared: 0.09009
@@ -114,7 +118,19 @@ Income and Salary Earnings 2016: Coefficient = 7.941e-04, p-value < 0.001.
 
 Significant positive correlation, indicating that higher income and salary earnings are associated with greater changes in housing prices.
 
+(2) Transaction Case Difference Regression Analysis (With Interaction Terms)
+<img src= "https://github.com/Anne-ccl/Big-Data-Final-Earthquake-Impact-on-Housing-Prices/assets/172912236/32437372-b2fb-4ced-a2c5-11f1c5fde376)" alt="image" width="400"/>
 
+Model Summary:
+
+Formula: Transaction Case Difference ~ Earthquake Magnitude * Social Growth Rate 2016 + EDU_RATE + Aging Index 2016 + Labor Force Participation Rate 2016 + Total Population 2016 + Population Density 2016 + Low-Income Household Ratio 2016 + Income and Salary Earnings 2016 + Medi_Service
+
+Adjusted R-squared: 0.1808
+F-statistic: 4.531, p-value < 0.001, highly significant
+
+Key Coefficients and Interpretation:
+Total Population 2016: Coefficient = 4.202e-03, p-value < 0.001. Significant positive correlation, indicating that higher total population is associated with greater differences in transaction cases.
+Income and Salary Earnings 2016: Coefficient = -1.017e-05, p-value < 0.001. Significant negative correlation, indicating that higher income and salary earnings are associated with smaller differences in transaction cases.
 
 
 
