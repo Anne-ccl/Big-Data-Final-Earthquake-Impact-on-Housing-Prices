@@ -4,8 +4,6 @@ Earthquake-Impact-on-Housing-Prices
 
 ## Project Description
 
-[Enter a brief description of your project, including the data you used and the analytical methods you applied. Be sure to provide context for your project and explain why it is important.]
-
 ### Introduction
 Taiwan is located on the Pacific Ring of Fire, making it prone to frequent and significant earthquakes. These seismic events can have substantial impacts on various aspects of society, particularly the housing market. Understanding how earthquakes affect housing prices is essential for policymakers, investors, and urban planners to develop strategies that enhance resilience and preparedness.
 
@@ -29,8 +27,6 @@ By utilizing data sources from the Ministry of the Interior's National Land Surv
 2. What are the relationships between earthquake occurrences, housing prices, and geographic mobility, and how are these relationships influenced by factors such as population dynamics, medical resources,salary income, and education levels?
 
 ## Getting Started
-
-[Provide instructions on how to get started with your project, including any necessary software or data. Include installation instructions and any prerequisites or dependencies that are required.]
 
 ### Prerequisites
 To get started with this project, you will need the following:
@@ -83,8 +79,6 @@ The project is organized into the following directories and files:
 
 
 ## Analysis
-
-[Describe your analysis methods and include any visualizations or graphics that you used to present your findings. Explain the insights that you gained from your analysis and how they relate to your research question or problem statement.]
 
 The analysis employs regression models to examine the relationship between earthquake intensity and housing prices. Specifically, we use two primary models:
 
@@ -173,8 +167,6 @@ ___________________________________________________________________
 
 ## Results
 
-[Provide a summary of your findings and conclusions, including any recommendations or implications for future research. Be sure to explain how your results address your research question or problem statement.]
-
 **Social Growth Rate** and **Total Population** are important factors influencing housing price and transaction differences.
 Earthquake Impact has a significant effect on housing price differences through its interaction with social growth rate, indicating that in areas with higher social growth rates, the impact of earthquakes on housing prices is more pronounced.
 Various Income Amounts: Salary Income has a significant stabilizing effect on transaction case differences, suggesting that real estate markets in higher-income areas experience less volatility.
@@ -196,8 +188,6 @@ By expanding the scope of research to include these aspects, we can gain a more 
 
 ## Contributors
 
-[List the contributors to your project and describe their roles and responsibilities.]
-
 Data Collection： Yvonne, Nina, Anne, Nora
 
 Programmer of the Project (Including Data Cleaning and Analysis): Yvonne, Nina
@@ -206,15 +196,11 @@ Writer: Anne, Nora
 
 ## Acknowledgments
 
-[Thank any individuals or organizations who provided support or assistance during your project, including funding sources or data providers.]
-
 We are deeply thankful to Professor Pien Chung-Pei for his invaluable guidance and support throughout the semester, which greatly influenced the development of our project. We also extend our appreciation to the organizations and individuals whose contributions and assistance were essential to our success, including our funding sources and data providers. His insightful feedback and constructive criticism were pivotal in shaping the direction and refining the methodologies of our project.
 
 Furthermore, we express our sincere appreciation to the government open data platforms. Their funding enabled us to access essential resources and tools, facilitating our research and analysis. Special thanks are also due to our data providers on these platforms, whose reliable datasets and cooperation were essential in conducting thorough and meaningful analyses.
 
 ## References
-
-[List any references or resources that you used during your project, including data sources, analytical methods, and tools.]
 
 ### Data Sources
 
