@@ -13,7 +13,7 @@ By utilizing data sources from the Ministry of the Interior's National Land Surv
 
 ### Objectives
 1. Assess the Impact of Earthquakes on Housing Prices: Determine whether the 2016 Meinong Earthquake significantly affected housing
-   prices and geographic mobility from 2016 to 2017.
+   prices and geographic mobility from 2015 to 2017.
 2. Analyze Contributing Factors: Explore the relationships between earthquake intensity, housing prices, and geographic mobility,
    considering other influencing factors such as population size, medical resources, and education levels.
 3. Provide Strategic Insights: offering practical recommendations based on the insights gained from the study.
