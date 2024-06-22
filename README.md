@@ -100,7 +100,7 @@ Independent variables include:
 - Medical resources
 - Education levels
 
-3. Regression Models:
+3. Regression Models
 
 In regression analysis, the purpose of introducing interaction terms is to explore the mutual influence between two variables. Specifically, interaction terms help us understand how one variable affects the effect of another variable. In your analysis, the interaction term between earthquake magnitude and social growth rate was included in the model, which helps us understand how these two variables jointly impact housing price differences and transaction case differences.
 
