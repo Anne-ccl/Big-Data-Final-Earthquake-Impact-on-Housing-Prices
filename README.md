@@ -60,6 +60,10 @@ The raw data used in this project includes:
 - Taiwan All Region Geographic Mobility 2016
 - Number of Medical Clinics in Townships and Towns in 2016
 - Education Level of Taiwanese Population 2016
+- Social increase rate (migration rates) 2016
+- Population size 2016
+- Aging index 2016
+- Salary Income 2016
 
 These datasets are crucial for performing the regression analysis and understanding the various factors affecting housing prices.
 
