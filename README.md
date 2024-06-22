@@ -56,7 +56,7 @@ install.packages("spData")
 The raw data used in this project includes:
 
 - 20160206 Meinong Earthquake (Seismic Intensity Classification Table)
-- Housing prices: Taiwan All Region Real Estate Transaction Dataset 2014-2018
+- Housing prices: Taiwan All Region Real Estate Transaction Dataset 2015-2017
 - Taiwan All Region Geographic Mobility 2016
 - Number of Medical Clinics in Townships and Towns in 2016
 - Education Level of Taiwanese Population 2016
