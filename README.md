@@ -150,7 +150,7 @@ In the transaction case difference analysis, the interaction term between social
 
 In the transaction case difference analysis, total population is significantly positively correlated, indicating that higher total population is associated with greater differences in transaction cases. This may reflect more frequent trading activity in areas with larger populations.
 
-3. Various Income Amounts: Salary Income:
+3. Various Income Amounts_Salary Income:
 
 In the transaction case difference analysis, various income amounts are significantly negatively correlated, indicating that higher income levels are associated with smaller differences in transaction cases. This may suggest that real estate markets in higher-income areas are more stable, with less transaction volatility.
 
