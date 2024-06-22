@@ -102,7 +102,7 @@ Independent variables include:
 
 3.Regression Models:
 
-**(1) Housing Price Difference Regression Analysis (With Interaction Terms)
+**(1) Housing Price Difference Regression Analysis (With Interaction Terms)**
 <img src= "https://github.com/Anne-ccl/Big-Data-Final-Earthquake-Impact-on-Housing-Prices/assets/172912236/400efab4-8ef0-4d21-a09a-638a669709cf)" alt="image" width="400"/>
 
 Model Summary:
@@ -120,7 +120,7 @@ Significant positive correlation, indicating that higher total population is ass
 ・Income and Salary Earnings 2016: Coefficient = 7.941e-04, p-value < 0.001. 
 Significant positive correlation, indicating that higher income and salary earnings are associated with greater changes in housing prices.
 
-(2) Transaction Case Difference Regression Analysis (With Interaction Terms)
+**(2) Transaction Case Difference Regression Analysis (With Interaction Terms)**
 <img src= "https://github.com/Anne-ccl/Big-Data-Final-Earthquake-Impact-on-Housing-Prices/assets/172912236/32437372-b2fb-4ced-a2c5-11f1c5fde376)" alt="image" width="400"/>
 
 Model Summary:
@@ -136,7 +136,23 @@ Significant positive correlation, indicating that higher total population is ass
 ・Income and Salary Earnings 2016: Coefficient = -1.017e-05, p-value < 0.001. 
 Significant negative correlation, indicating that higher income and salary earnings are associated with smaller differences in transaction cases.
 
+**Comprehensive Analysis**
+1. Interaction Between Social Growth Rate and Earthquake Magnitude:
 
+In the housing price difference analysis, the social growth rate is significantly negatively correlated, but the interaction term (Earthquake Magnitude: Social Growth Rate 2016) is significantly positively correlated. This indicates that in areas with a higher social growth rate, the impact of the earthquake on housing price differences is more pronounced.
+In the transaction case difference analysis, the interaction term between social growth rate and earthquake magnitude does not have a significant effect, but total population and income levels significantly affect transaction case differences.
+
+2.Total Population:
+
+In the transaction case difference analysis, total population is significantly positively correlated, indicating that higher total population is associated with greater differences in transaction cases. This may reflect more frequent trading activity in areas with larger populations.
+
+3. Various Income Amounts: Salary Income:
+
+In the transaction case difference analysis, various income amounts are significantly negatively correlated, indicating that higher income levels are associated with smaller differences in transaction cases. This may suggest that real estate markets in higher-income areas are more stable, with less transaction volatility.
+
+4. Earthquake Magnitude:
+
+In the housing price difference analysis, the main effect of earthquake magnitude is not significant, but its interaction with the social growth rate is significant, suggesting that the impact of the earthquake on housing price differences is significant in the context of social growth rate.
 
 ### Methodology
 1. Data Cleaning: Preprocess the raw data to ensure accuracy and consistency.
@@ -172,6 +188,10 @@ ___________________________________________________________________
 [Provide a summary of your findings and conclusions, including any recommendations or implications for future research. Be sure to explain how your results address your research question or problem statement.]
 
 The preliminary results suggest that housing prices are more closely related to the social increase rate (net migration) than to earthquake intensity. Specifically, the analysis indicates that areas with higher rates of population influx tend to experience more significant changes in housing prices, irrespective of earthquake intensity. These findings highlight the importance of social and demographic factors over purely geological ones in influencing the housing market.
+
+**Social Growth Rate** and **Total Population** are important factors influencing housing price and transaction differences.
+Earthquake Impact has a significant effect on housing price differences through its interaction with social growth rate, indicating that in areas with higher social growth rates, the impact of earthquakes on housing prices is more pronounced.
+Various Income Amounts: Salary Income has a significant stabilizing effect on transaction case differences, suggesting that real estate markets in higher-income areas experience less volatility.
 
 
 ### Future Research
