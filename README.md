@@ -50,6 +50,7 @@ install.packages("viridis")
 install.packages("rnaturalearth")
 install.packages("rnaturalearthdata")
 install.packages("spData")
+install.packages("leaflet")
 ```
 ### Raw Data
 The raw data used in this project includes:
