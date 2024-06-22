@@ -110,6 +110,7 @@ Model Summary:
 Formula: Housing Price Difference 15_17 ~ Earthquake Magnitude * Social Growth Rate 2016 + Population Density 2016 + EDU_RATE + Aging Index 2016 + Labor Force Participation Rate 2016 + Total Population 2016 + Low-Income Household Ratio 2016 + Income and Salary Earnings 2016 + Medi_Service
 
 ・Adjusted R-squared: 0.09009
+
 ・F-statistic: 4.308, p-value < 0.001, highly significant
 
 Key Coefficients and Interpretation:
@@ -128,6 +129,7 @@ Model Summary:
 Formula: Transaction Case Difference ~ Earthquake Magnitude * Social Growth Rate 2016 + EDU_RATE + Aging Index 2016 + Labor Force Participation Rate 2016 + Total Population 2016 + Population Density 2016 + Low-Income Household Ratio 2016 + Income and Salary Earnings 2016 + Medi_Service
 
 ・Adjusted R-squared: 0.1808
+
 ・F-statistic: 4.531, p-value < 0.001, highly significant
 
 Key Coefficients and Interpretation:
@@ -142,7 +144,7 @@ Significant negative correlation, indicating that higher income and salary earni
 In the housing price difference analysis, the social growth rate is significantly negatively correlated, but the interaction term (Earthquake Magnitude: Social Growth Rate 2016) is significantly positively correlated. This indicates that in areas with a higher social growth rate, the impact of the earthquake on housing price differences is more pronounced.
 In the transaction case difference analysis, the interaction term between social growth rate and earthquake magnitude does not have a significant effect, but total population and income levels significantly affect transaction case differences.
 
-2.Total Population:
+2. Total Population:
 
 In the transaction case difference analysis, total population is significantly positively correlated, indicating that higher total population is associated with greater differences in transaction cases. This may reflect more frequent trading activity in areas with larger populations.
 
