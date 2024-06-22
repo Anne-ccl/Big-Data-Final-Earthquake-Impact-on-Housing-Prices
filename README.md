@@ -207,7 +207,11 @@ Writer: Anne, Nora
 
 [Thank any individuals or organizations who provided support or assistance during your project, including funding sources or data providers.]
 
-We extend our gratitude to Professor Pien Chung-Pei for his invaluable guidance and support throughout the semester. His insights and feedback were instrumental in the development of this project.
+We extend our heartfelt gratitude to Professor Pien Chung-Pei for his unwavering guidance and invaluable support throughout the semester. Professor Pien's deep expertise and commitment to our learning journey have significantly enriched our understanding of the complexities of big data analysis. His insightful feedback and constructive criticism were pivotal in shaping the direction and refining the methodologies of our project.
+
+Furthermore, we express our sincere appreciation to the organizations and individuals whose support and contributions were integral to the success of our project. Their funding enabled us to access essential resources and tools, facilitating our research and analysis. Special thanks are also due to our data providers, whose reliable data sets and cooperation were essential in conducting thorough and meaningful analyses.
+
+In conclusion, we are profoundly grateful to Professor Pien and all our supporters for their invaluable contributions, which have not only enhanced our academic experience but also deepened our passion for exploring the limitless possibilities of big data analysis.
 
 ## References
 
