@@ -171,8 +171,6 @@ ___________________________________________________________________
 
 
 
-### Process
-
 ## Results
 
 [Provide a summary of your findings and conclusions, including any recommendations or implications for future research. Be sure to explain how your results address your research question or problem statement.]
