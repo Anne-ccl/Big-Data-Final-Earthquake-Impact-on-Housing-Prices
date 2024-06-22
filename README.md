@@ -157,13 +157,13 @@ In the housing price difference analysis, the main effect of earthquake magnitud
 ### Visualization
 We provide visualizations such as simple plots showing changes in housing prices and earthquake intensity, helping to illustrate the findings clearly.
 
-<img src="https://github.com/Anne-ccl/Big-Data-Final-Earthquake-Impact-on-Housing-Prices/assets/122294439/e48bb914-d418-47fc-a2ff-f25337898d79" alt="image" width="400"/>
+<img src="https://github.com/Anne-ccl/Big-Data-Final-Earthquake-Impact-on-Housing-Prices/assets/122294439/e48bb914-d418-47fc-a2ff-f25337898d79" alt="image" width="600"/>
+
 
 **Figure 1. Earthquake Intensity of Meinong Earthquake (2016)**
 
 
-
-Find the details in the Visualization result folder in the online link:
+**Find the details in the Visualization result folder in the online link**
 1. Variations in Property Prices & Earthquake Intensity (2015-2017) 
 2. Variations in Property Transaction Volumes & Earthquake Intensity (2015-2017) 
 
