@@ -1,6 +1,6 @@
 # Earthquake-Impact-on-Housing-Prices
 
-Earthquake-Impact-on-Housing-Prices
+The relationship between earthquakes and housing prices
 
 ## Project Description
 
