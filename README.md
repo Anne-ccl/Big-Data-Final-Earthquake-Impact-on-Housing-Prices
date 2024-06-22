@@ -25,8 +25,8 @@ By utilizing data sources from the Ministry of the Interior's National Land Surv
    Offer recommendations for future urban planning and investment decisions based on the findings.
 
 ### Hypotheses
-1. Did the 2016 Meinong Earthquake significantly impact housing prices and geographic mobility in areas with a magnitude of four or above from 2015 to 2017?
-2. What are the relationships between earthquake occurrences, housing prices, and geographic mobility, and how are these relationships influenced by factors such as population dynamics, medical resources, and education levels?
+1. Did the 2016 Meinong Earthquake significantly impact housing prices and geographic mobility in areas with a magnitude of four or above from 2016 to 2017?
+2. What are the relationships between earthquake occurrences, housing prices, and geographic mobility, and how are these relationships influenced by factors such as population dynamics, medical resources,salary income, and education levels?
 
 ## Getting Started
 
