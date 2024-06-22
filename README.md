@@ -103,6 +103,7 @@ Independent variables include:
 3.Regression Models:
 
 **(1) Housing Price Difference Regression Analysis (With Interaction Terms)**
+
 <img src= "https://github.com/Anne-ccl/Big-Data-Final-Earthquake-Impact-on-Housing-Prices/assets/172912236/400efab4-8ef0-4d21-a09a-638a669709cf)" alt="image" width="400"/>
 
 Model Summary:
@@ -122,6 +123,7 @@ Significant positive correlation, indicating that higher total population is ass
 Significant positive correlation, indicating that higher income and salary earnings are associated with greater changes in housing prices.
 
 **(2) Transaction Case Difference Regression Analysis (With Interaction Terms)**
+
 <img src= "https://github.com/Anne-ccl/Big-Data-Final-Earthquake-Impact-on-Housing-Prices/assets/172912236/32437372-b2fb-4ced-a2c5-11f1c5fde376)" alt="image" width="400"/>
 
 Model Summary:
