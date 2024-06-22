@@ -111,8 +111,9 @@ In regression analysis, the purpose of introducing interaction terms is to explo
 
 
 **(1) Housing Price Difference Regression Analysis (With Interaction Terms)**
-
+<div align="center">
 <img src= "https://github.com/Anne-ccl/Big-Data-Final-Earthquake-Impact-on-Housing-Prices/assets/172912236/400efab4-8ef0-4d21-a09a-638a669709cf)" alt="image" width="400"/>
+</div>
 
 Model Summary:
 
@@ -122,8 +123,9 @@ Housing Price Difference Regression Analysis
 The interaction term (Earthquake Magnitude * Social Growth Rate 2016) is **significantly positively correlated**, indicating that the interaction between earthquake magnitude and social growth rate significantly affects housing price differences. This means that in areas with higher social growth rates, the impact of earthquakes on housing price differences is more pronounced. In other words, the higher the social growth rate, the greater the impact of earthquakes on housing prices.
 
 **(2) Transaction Case Difference Regression Analysis (With Interaction Terms)**
-
+<div align="center">
 <img src= "https://github.com/Anne-ccl/Big-Data-Final-Earthquake-Impact-on-Housing-Prices/assets/172912236/32437372-b2fb-4ced-a2c5-11f1c5fde376)" alt="image" width="400"/>
+</div>
 
 Model Summary:
 
