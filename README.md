@@ -101,21 +101,23 @@ Independent variables include:
 - Education levels
 
 3.Regression Models:
-(1) Housing Price Difference Regression Analysis (With Interaction Terms)
+
+**(1) Housing Price Difference Regression Analysis (With Interaction Terms)
 <img src= "https://github.com/Anne-ccl/Big-Data-Final-Earthquake-Impact-on-Housing-Prices/assets/172912236/400efab4-8ef0-4d21-a09a-638a669709cf)" alt="image" width="400"/>
 
 Model Summary:
 
 Formula: Housing Price Difference 15_17 ~ Earthquake Magnitude * Social Growth Rate 2016 + Population Density 2016 + EDU_RATE + Aging Index 2016 + Labor Force Participation Rate 2016 + Total Population 2016 + Low-Income Household Ratio 2016 + Income and Salary Earnings 2016 + Medi_Service
 
-Adjusted R-squared: 0.09009
-F-statistic: 4.308, p-value < 0.001, highly significant
+・Adjusted R-squared: 0.09009
+・F-statistic: 4.308, p-value < 0.001, highly significant
 
 Key Coefficients and Interpretation:
-Social Growth Rate 2016: Coefficient = -1.394e+04, p-value < 0.001. Significant negative correlation, indicating that higher social growth rates are associated with smaller changes in housing prices.
-Total Population 2016: Coefficient = 1.594e-03, p-value < 0.001. Significant positive correlation, indicating that higher total population is associated with greater changes in housing prices.
-Income and Salary Earnings 2016: Coefficient = 7.941e-04, p-value < 0.001. 
-
+・Social Growth Rate 2016: Coefficient = -1.394e+04, p-value < 0.001. 
+Significant negative correlation, indicating that higher social growth rates are associated with smaller changes in housing prices.
+・Total Population 2016: Coefficient = 1.594e-03, p-value < 0.001. 
+Significant positive correlation, indicating that higher total population is associated with greater changes in housing prices.
+・Income and Salary Earnings 2016: Coefficient = 7.941e-04, p-value < 0.001. 
 Significant positive correlation, indicating that higher income and salary earnings are associated with greater changes in housing prices.
 
 (2) Transaction Case Difference Regression Analysis (With Interaction Terms)
@@ -125,12 +127,14 @@ Model Summary:
 
 Formula: Transaction Case Difference ~ Earthquake Magnitude * Social Growth Rate 2016 + EDU_RATE + Aging Index 2016 + Labor Force Participation Rate 2016 + Total Population 2016 + Population Density 2016 + Low-Income Household Ratio 2016 + Income and Salary Earnings 2016 + Medi_Service
 
-Adjusted R-squared: 0.1808
-F-statistic: 4.531, p-value < 0.001, highly significant
+・Adjusted R-squared: 0.1808
+・F-statistic: 4.531, p-value < 0.001, highly significant
 
 Key Coefficients and Interpretation:
-Total Population 2016: Coefficient = 4.202e-03, p-value < 0.001. Significant positive correlation, indicating that higher total population is associated with greater differences in transaction cases.
-Income and Salary Earnings 2016: Coefficient = -1.017e-05, p-value < 0.001. Significant negative correlation, indicating that higher income and salary earnings are associated with smaller differences in transaction cases.
+・Total Population 2016: Coefficient = 4.202e-03, p-value < 0.001. 
+Significant positive correlation, indicating that higher total population is associated with greater differences in transaction cases.
+・Income and Salary Earnings 2016: Coefficient = -1.017e-05, p-value < 0.001. 
+Significant negative correlation, indicating that higher income and salary earnings are associated with smaller differences in transaction cases.
 
 
 
